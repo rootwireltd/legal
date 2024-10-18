@@ -1,0 +1,5 @@
+# Please report any security vulnerabilities to us via the contact method below and only after reading our disclosure policy:
+Contact: mailto:cert@rootwire.co.uk
+
+# Details of this file are reviewed annualy
+Expires: 2025-08-31T12:30:00.000Z
